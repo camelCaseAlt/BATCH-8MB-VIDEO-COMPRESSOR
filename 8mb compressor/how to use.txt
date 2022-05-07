@@ -1,0 +1,12 @@
+step 1 - Open "get video time.bat" and  paste your video path or drag the video in the window
+step 2 - Now copy the the Number that is printed in the terminal 
+step 3 - Calculate the bitrate go to Calculate.txt and calculate it in a calculator
+step 4 - Copy the result of the calculated bitrate
+step 5 - Open compress.bat, put video file, the calculated bitrate, and your output file name with file extention that you want (.mp4 .mov etc.)
+step 6 - Wait, after that you should see "done!" you can close the window. The Compressed video should be the same as this parent folder.
+step 7 - Now you can actually send shit on discord because its below 8 mb enjoy!
+
+some notes:
+- You can toy around with the bitrate increase or decrease it and adjust the quality 
+- This supports various types of video formats with also the option to export a different video format thanks to ffmpeg.
+- This is really an inconvenient way to do it, lot of steps and shit but honestly better than those online video compressors

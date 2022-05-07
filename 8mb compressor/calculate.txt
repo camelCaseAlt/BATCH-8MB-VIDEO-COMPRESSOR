@@ -1,0 +1,9 @@
+8192 / REPLACEME *8
+^				 ^
+bitrate			  optional multiple
+           ^
+			YOUR video time 
+
+
+should look like this: "8192 / 34.1200" 
+paste that in google and copy the result for the next step!
